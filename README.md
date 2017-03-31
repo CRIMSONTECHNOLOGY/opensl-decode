@@ -58,25 +58,29 @@ Output data
 
 The waveform of original
 
-![The waveform of original](https://drive.google.com/file/d/0B3P1-RHbWDQRU0JUZFhmT3BhZkE/view?usp=sharing)
+![The waveform of original](http://crimsontech.sakura.ne.jp/tmp/ss_opensles_problem/ss_wav.png)
 
+---
 
 The MP3 decoder makes the noise
 
-![The MP3 decoder makes the noise](https://drive.google.com/file/d/0B3P1-RHbWDQRcmlrcG1DanZGdkk/view?usp=sharing)
+![The MP3 decoder makes the noise](http://crimsontech.sakura.ne.jp/tmp/ss_opensles_problem/ss_mp3.png)
 
+---
 
 The AAC decoder makes the silence
 
-![The AAC decoder makes the silence](https://drive.google.com/file/d/0B3P1-RHbWDQRRy03TGtLQ0ZoUnc/view?usp=sharing)
+![The AAC decoder makes the silence](http://crimsontech.sakura.ne.jp/tmp/ss_opensles_problem/ss_aac.png)
 
+---
 
 The OGG decoder makes the noise (1)
 
-![The OGG decoder makes the noise (1)](https://drive.google.com/file/d/0B3P1-RHbWDQRbXpYVDVZT0RIaTA/view?usp=sharing)
+![The OGG decoder makes the noise (1)](http://crimsontech.sakura.ne.jp/tmp/ss_opensles_problem/ss_ogg.png)
 
+---
 
 The OGG decoder makes the noise (2)
 
-![The OGG decoder makes the noise (2)](https://drive.google.com/file/d/0B3P1-RHbWDQRbXpYVDVZT0RIaTA/view?usp=sharing)
+![The OGG decoder makes the noise (2)](http://crimsontech.sakura.ne.jp/tmp/ss_opensles_problem/ss_ogg2.png)
 
