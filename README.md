@@ -9,8 +9,7 @@ This app is it to check those problems.
 First problem
 ---------
 
-When an MP3 decoder starts to decode using seeking interface, the decoder outputs noise before decoded data.<br>
-And, when an AAC decoder starts to decode using seeking interface, the decoder outputs silence before decoded data.<br>
+When SLSeekItf->SetPosition() is used before decoding a compressed file, OpenSL ES decoders add noise and silence to the beginning of the decoded data.
 When not using seeking interface, a problem doesn't occur.<br>
 This is problem of only API 25 (OS 7.1.1).<br>
 It's checked by Nexus 5X (7.1.1) and x86 emulator(7.1.1).
