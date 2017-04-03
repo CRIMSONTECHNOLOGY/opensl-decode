@@ -15,7 +15,7 @@ When not using seeking interface, a problem doesn't occur.<br>
 This is problem of only API 25 (OS 7.1.1).<br>
 It's checked by Nexus 5X (7.1.1) and x86 emulator(7.1.1).
 
-### How to check a problem of mp3 codec
+### How to check the problem of MP3 codec
 
 1. Select a codec type of MP3.
 
@@ -26,7 +26,7 @@ It's checked by Nexus 5X (7.1.1) and x86 emulator(7.1.1).
 4. You can check the wav file with "Play" button.
 
 
-### How to check a problem of mp3 codec
+### How to check the problem of AAC codec
 
 1. Select a codec type of AAC.
 
@@ -44,7 +44,7 @@ An Ogg decoder outputs broken data stream.
 This is problem of API 24 or more (OS 7.0 ~).
 It's checked by Nexus 5X (7.1.1) and x86 emulator(7.0).
 
-### How to check a problem of mp3 codec
+### How to check the problem of OGG Vorbis codec
 
 1. Select a codec type of OGG.
 
